@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52ac4dd509e49f749b08036163ba67dc, type: 3}
+  m_Name: Level1
+  m_EditorClassIdentifier: 
+  levelNumber: 1
+  isNotEmpty: 0
+  levelStatus: 2
+  currentGoal: 20
+  score: 0
+  shieldEnergy: 3
+  playerShip: {fileID: 0}
